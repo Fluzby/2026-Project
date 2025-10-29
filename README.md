@@ -1,9 +1,4 @@
-# Construction Vehicle Tracker (Apple AirTags)
-
-Track excavators, trucks, and trailers using Apple AirTags + AirPinpoint API.
-
-Live map shows real-time location, battery %, and last seen.
-
+# Construction Vehicle Tracker
 ---
 
 ## Live Demo
@@ -116,14 +111,3 @@ Total Cost: ~€300 for 10 vehicles
 
 ---
 
-## Next Steps
-- [ ] Create repo & push this code
-- [ ] Deploy backend
-- [ ] Share with foreman on phone
-
-> Want a mobile app later? We’ll add React Native.
-
----
-
-Let’s build it!  
-Drop a star if this helps — and tag me when it’s live!
