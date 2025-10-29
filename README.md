@@ -10,7 +10,7 @@
 
 ### Phase 1: Buy & Setup AirTags (Week 1)
 - [ ] Buy 10+ AirTags (€29 each on Amazon)
-- [ ] Create Apple ID: fleet@yourcompany.com
+- [ ] Create Apple ID: example@mail.com
 - [ ] Pair all AirTags to this ID
 - [ ] Hide in vehicles:
   - Under seat
