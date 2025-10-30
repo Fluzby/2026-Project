@@ -1,4 +1,4 @@
-<img width="607" height="434" alt="image" src="https://github.com/user-attachments/assets/cd6b0503-6774-4460-a96c-67f00d34ea27" /># Construction Vehicle Tracker
+# Construction Vehicle Tracker
 
 ---
 
@@ -9,6 +9,14 @@
 <img width="607" height="434" alt="image" src="https://github.com/user-attachments/assets/94025627-785b-43bd-9420-4b9e006879bc" />
 <img width="610" height="405" alt="image" src="https://github.com/user-attachments/assets/4739f2a1-237d-4cce-8d3f-1b729f4ce74c" />
 
+---
+
+## Key Features:
+- Real-time GPS tracking of all company vehicles.
+- Customizable geo-fenced areas per vehicle or job site.
+- Instant alerts (push/email/SMS) when a vehicle exits the allowed zone.
+- Customer-facing tracking link (e.g., via SMS or web portal) showing live ETA and distance.
+- Secure role-based access: Admin/Manager view vs. Customer view.
 
 ---
 
