@@ -94,6 +94,7 @@ construction-airtag-tracker/
 - AirTags: €29 each
 - AirPinpoint: Free up to 32 tags
 - Hosting: Free
+- Apple App Store fee developer €99
 
 ---
 
