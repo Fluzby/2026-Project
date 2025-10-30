@@ -1,8 +1,4 @@
 # Construction Vehicle Tracker
----
-
-## Live Demo
-(COMING SOON)
 
 ---
 
@@ -12,10 +8,6 @@
 - [ ] Buy 10+ AirTags (€29 each on Amazon)
 - [ ] Create a work Apple ID: example@mail.com
 - [ ] Pair all AirTags to this ID
-- [ ] Hide in vehicles:
-  - Under seat
-  - OBD port
-  - Tool box
 - [ ] Label: VEH-01, VEH-02, etc.
 
 ---
@@ -48,7 +40,7 @@ backend/server.js
 
 ---
 
-### Phase 4: Live Website (Week 3)
+### Phase 4: Live Website (Week 3-4)
 - [ ] Frontend fetches /api/vehicles every 30s
 - [ ] Update map pins in real-time
 - [ ] Show battery + last seen
