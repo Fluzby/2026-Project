@@ -87,8 +87,6 @@ construction-airtag-tracker/
 5. Update frontend/index.html → set API_URL
 6. Push & enable GitHub Pages
 
-Done! Open in browser — see your fleet live.
-
 ---
 
 ## Tech Stack
@@ -110,4 +108,9 @@ Total Time: 3–4 weeks
 Total Cost: ~€300 for 10 vehicles
 
 ---
+
+## Helpful links
+- https://airpinpoint.com/
+- https://www.itslaut.com/collections/case-for-airtag/products/bike-tag-bottle-mount-for-airtag
+- https://www.apple.com/airtag/
 
