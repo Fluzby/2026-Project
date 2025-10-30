@@ -1,4 +1,14 @@
-# Construction Vehicle Tracker
+<img width="607" height="434" alt="image" src="https://github.com/user-attachments/assets/cd6b0503-6774-4460-a96c-67f00d34ea27" /># Construction Vehicle Tracker
+
+---
+
+## Develop a mobile and/or web application for a construction company to:
+- Track the real-time location of construction vehicles.
+- Alert administrators instantly if a vehicle leaves its designated work zone (geo-fencing for anti-theft protection).
+- Allow customers to track delivery vehicles in real time and see the estimated distance/time until arrival.
+<img width="607" height="434" alt="image" src="https://github.com/user-attachments/assets/94025627-785b-43bd-9420-4b9e006879bc" />
+<img width="610" height="405" alt="image" src="https://github.com/user-attachments/assets/4739f2a1-237d-4cce-8d3f-1b729f4ce74c" />
+
 
 ---
 
