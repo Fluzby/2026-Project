@@ -55,6 +55,7 @@ backend/server.js
 - [ ] Export to CSV
 - [ ] Password protect site
 - [ ] SMS/email alerts via webhook
+- [ ] Try to make it a full app store app
 
 ---
 
