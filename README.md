@@ -2,7 +2,7 @@
 
 ## Projekti ülevaade
 
-See projekt on **kinnisvara CRM (Customer Relationship Management) dashboard**, mis on loodud praktikaprojekti raames. Süsteemi eesmärk on pakkuda kinnisvaramaakleritele keskset platvormi, kus hallata kinnisvaraobjekte, kliente, ajakava ning arhiveeritud andmeid.
+See projekt on **kinnisvara CRM dashboard**, mis on loodud praktikaprojekti raames. Süsteemi eesmärk on pakkuda kinnisvaramaakleritele keskset platvormi, kus hallata kinnisvaraobjekte, kliente, ajakava ning arhiveeritud andmeid.
 
 CRM võimaldab kasutajatel:
 
